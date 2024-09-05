@@ -2,6 +2,7 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import About from '../Pages/About'
+import Services from '../Pages/Services'
 
 const Home = () => <div>Home Page</div>;
 
