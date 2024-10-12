@@ -1,6 +1,6 @@
 import React from 'react';
-import Card from '../Component/Card'
-import Catolog from '../Component/Catolog '
+import Card from '../Component /Card'
+import Catolog from '../Component /Catolog'
 
 const Services = () => {
     return (

@@ -1,10 +1,9 @@
-import React from 'react';
-import Card from './Card'
 
-const Catolog = () => {
+import Card from './Card';
+        
+const FC = () => {
     return (
-        <div>
-            <div className="border">
+        <div className="border">
 
                 <div className="leftPage">
                     <Card/>
@@ -31,10 +30,8 @@ const Catolog = () => {
                         <Card/>
                         <Card/>
                         <Card/>
-                    
-            </div>
-        </div>
-    );</div>
-}
+                        </div>
+    </div>
+)}
 
-export default Catolog;
+export default FC;
